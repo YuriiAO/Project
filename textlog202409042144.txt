@@ -1,0 +1,137 @@
+$ git log
+commit 65c94839f88104e91fbdf46bb8d6b37f6ee14cae (HEAD -> main, origin/main)
+Merge: 94c2d9c 3c22ef5
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 20:36:48 2024 +0200
+
+    add file test24.txt
+
+commit 3c22ef5347eec4569c7a30f2bb86dda15a31f062 (testing)
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 20:18:20 2024 +0200
+
+    add file test24.txt
+
+commit 94c2d9c2c76a015eca1169b3de526ec8df3557a3
+Merge: a3e1e24 bfbbd45
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 19:06:51 2024 +0200
+
+    add new file test23
+
+commit bfbbd4508af6525546fd7a5570f6ac6a5a25c17b
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 18:57:35 2024 +0200
+
+    add new file test23
+
+commit a3e1e24d2b31dfe8aabe987ff811d8bc59c914c5
+Merge: 3da0c0f 9030dea
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 18:47:13 2024 +0200
+
+    modified history.txt
+
+commit 3da0c0f972691c8f7b7a9bdac26ea4da2d36442b
+Merge: d08f73d 55161b4
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 18:35:28 2024 +0200
+
+    All conflicts fixed but you are still merging (use "git commit" to conclude merge)
+
+commit 9030dea34b31453f9946b7483acc4684ad2ebf1f
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 18:24:44 2024 +0200
+
+    modified history.txt
+
+commit d08f73da2f6b37dd296af82987717e088bf6a09c
+Merge: f115c9f c921602
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 18:21:35 2024 +0200
+
+    modified history.txt
+
+commit c921602d5e54d9d03bce212a0873c3586b8d62a0
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 18:09:15 2024 +0200
+
+    modified:   history.txt
+
+commit f115c9f7c258c23df04f767137a56197795540ef
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 17:55:22 2024 +0200
+
+    update branch mane
+
+commit 55161b47085b63ab10773a418260ea2b92948acd
+Author: YuriiAO <oglobliny@mail.ru>
+Date:   Wed Sep 4 17:52:38 2024 +0200
+
+    Delete test2.txt
+
+commit 717806461db7472c4423368b10d49f32a74bb708 (origin/testing)
+Author: Yurii <oglobliny@mail.ru>
+Date:   Tue Sep 3 21:39:47 2024 +0200
+
+    add file test2.txt
+
+commit 6006193aa618b43ad95cde8de2c1608a6065efa2
+Merge: 0e5a3ab 3dcd355
+Author: Yurii <oglobliny@mail.ru>
+Date:   Tue Sep 3 21:32:48 2024 +0200
+
+    mergin
+
+commit 3dcd355a651d6c08d330239ea6163ac248b796fb
+Merge: 8f4f80d 90c1006
+Author: YuriiAO <oglobliny@mail.ru>
+Date:   Tue Sep 3 21:18:35 2024 +0200
+
+    Merge pull request #1 from YuriiAO/testing
+
+    we created a branch TESTING and added a file HISTORY
+
+commit 90c1006c2da9af21686d3b666b13b2eaa5946046
+Author: Yurii <oglobliny@mail.ru>
+Date:   Tue Sep 3 20:50:15 2024 +0200
+
+    mod file history
+
+commit 0e5a3ab4ee1e749020fffb5aee48720c2fc95da2
+Author: Yurii <oglobliny@mail.ru>
+Date:   Tue Sep 3 14:15:00 2024 +0200
+
+    editing a file
+
+commit e0f6c5b6e074f90190a385fa4c82c9fbeeb2a750
+Author: Yurii <oglobliny@mail.ru>
+Date:   Tue Sep 3 13:58:54 2024 +0200
+
+    we created a branch TESTING and added a file HISTORY
+
+commit 65c94839f88104e91fbdf46bb8d6b37f6ee14cae (HEAD -> main, origin/main)
+Merge: 94c2d9c 3c22ef5
+Author: Yurii <oglobliny@mail.ru>
+commit 65c94839f88104e91fbdf46bb8d6b37f6ee14cae (HEAD -> main, origin/main)
+Merge: 94c2d9c 3c22ef5
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 20:36:48 2024 +0200
+
+    add file test24.txt
+
+commit 3c22ef5347eec4569c7a30f2bb86dda15a31f062 (testing)
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 20:18:20 2024 +0200
+
+    add file test24.txt
+
+commit 94c2d9c2c76a015eca1169b3de526ec8df3557a3
+Merge: a3e1e24 bfbbd45
+Author: Yurii <oglobliny@mail.ru>
+Date:   Wed Sep 4 19:06:51 2024 +0200
+
+    add new file test23
+
+commit bfbbd4508af6525546fd7a5570f6ac6a5a25c17b
+:
