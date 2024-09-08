@@ -24,3 +24,29 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 ##Задание 7.
 Смержить ветку testing с веткой master (или main). Скриншот результата прикрепить ниже.
 Сделать скринштоты к заданиям 1-7(с пояснением своих действий, на скриншоте должна быть информация, которая относится к соответсвующему пункту задания), оформить в один pdf документ и загрузить его на проверку.
+ 
+не знаю насколько верны мои дествия но я сделал только что так:
+переименовал main в master (git branch -m master)
+создал ветку testing2 (git checkout testing2)
+создал файл history2 в testing2
+попытался запушить master (git push), он выругался на меня
+я попытался еще раз, но уже так: 
+MINGW64 ~/Desktop/project/lesson/Project (master)
+$  git push origin HEAD
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/YuriiAO/Project/pull/new/master
+remote:
+To https://github.com/YuriiAO/Project.git
+ * [new branch]      HEAD -> master
+Затем смержил ветку master и testing2
+MINGW64 ~/Desktop/project/lesson/Project (master)
+$ git merge testing2
+Already up to date.
+поскольку history2 я не за коммител в testing2 сделал это уже в master
+и запушил master
+MINGW64 ~/Desktop/project/lesson/Project (master)
+$ git push origin HEAD
+и смержил master с main уже в Github.
+
